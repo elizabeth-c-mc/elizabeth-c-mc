@@ -1,2 +1,2 @@
 ## Hello! 👋
-- 👯 DD & OM Teams
+- 👯 Loving GitHub and the DD & OM Teams
